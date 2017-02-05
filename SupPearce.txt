@@ -1,1 +1,5 @@
-Sup
+Directions for Git setup:
+1. Open CMD in whatever directory you want the project to be in
+2. git clone https://github.com/andrewdoyle01/Pearce.git
+3. git pull
+4. profit
